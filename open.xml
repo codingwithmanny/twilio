@@ -1,6 +1,6 @@
 <Response>
     <Say>Connecting</Say>
     <Dial>
-      <Number sendDigits="9"></Number>
+      <Number>9</Number>
     </Dial>
 </Response>
