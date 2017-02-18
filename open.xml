@@ -1,4 +1,4 @@
 <Response>
     <Say>Connecting</Say>
-    <Play digits="9"/>
+    <Play digits="9"></Play>
 </Response>
